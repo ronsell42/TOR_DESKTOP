@@ -1,0 +1,13 @@
+C:\Users\ronsell42\Desktop\Try\a\TOR\bin\Debug\TOR.exe.config
+C:\Users\ronsell42\Desktop\Try\a\TOR\obj\x86\Debug\TOR.exe
+C:\Users\ronsell42\Desktop\Try\a\TOR\obj\x86\Debug\TOR.xml
+C:\Users\ronsell42\Desktop\Try\a\TOR\obj\x86\Debug\TOR.pdb
+C:\Users\ronsell42\Desktop\Try\a\TOR\obj\x86\Debug\Transcript.vbprojResolveAssemblyReference.cache
+C:\Users\ronsell42\Desktop\Try\a\TOR\obj\x86\Debug\TOR.Resources.resources
+C:\Users\ronsell42\Desktop\Try\a\TOR\obj\x86\Debug\Transcript.vbproj.GenerateResource.Cache
+C:\Users\ronsell42\Desktop\Try\a\TOR\bin\Debug\TORdb.mdb
+C:\Users\ronsell42\Desktop\Try\a\TOR\bin\Debug\TOR.exe
+C:\Users\ronsell42\Desktop\Try\a\TOR\bin\Debug\TOR.pdb
+C:\Users\ronsell42\Desktop\Try\a\TOR\bin\Debug\TOR.xml
+C:\Users\ronsell42\Desktop\Try\a\TOR\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ronsell42\Desktop\Try\a\TOR\obj\x86\Debug\TOR.Form1.resources

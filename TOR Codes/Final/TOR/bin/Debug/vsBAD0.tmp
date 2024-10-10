@@ -1,0 +1,484 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TOR
+</name>
+</assembly>
+<members>
+<member name="P:TOR.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.back_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.backup_icon_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.backup_icon_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.backup_icon_home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.backup0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.backup1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.dashboard">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.dashboard_icon_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.dashboard_icon_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.dashboard_icon_home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.dashboard0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.dashboard1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.dropDown1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.dropDown2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.eye_0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.eye_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.help_icon_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.help_icon_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.help_icon_home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.help1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.help11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.history_icon_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.history_icon_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.history_icon_home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.hole">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.home_icon_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.initialPic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.loading">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.Loading_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.login1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.logout_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.nextPage_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.nextPage_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.previousPage_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.previousPage_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.pureWhite">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.redDot">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.search25_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.settings_icon_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.settings_icon_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.settings_icon_home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.settings0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.settings1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.showpass">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.showpass2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.showpass3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.student0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.student1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.students_icon_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.students_icon_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.students_icon_home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.subjects_icon_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.subjects_icon_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.subjects_icon_home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.subjects0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.subjects1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.subjects11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.tor_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.tor1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.tor2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.tor3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.totalGraduates">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.totalRelease">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.totalStudents">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.up1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TOR.My.Resources.Resources.user_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:TOR.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.coursesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.databaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.gradingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.logsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.semestersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.studentsInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.subjectsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.userAccountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.studentSubjectsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.pageNumbersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.coursesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.databaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.gradingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.logsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.semestersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.studentsInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.subjectsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.userAccountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.studentSubjectsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.pageNumbersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TOR.TORdbDataSet.coursesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet.databaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet.gradingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet.logsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet.semestersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet.studentsInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet.subjectsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet.userAccountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet.studentSubjectsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet.pageNumbersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TOR.TORdbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.coursesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.databaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.gradingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.logsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.semestersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.studentsInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.subjectsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.userAccountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.studentSubjectsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.pageNumbersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TOR.TORdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TOR.TORdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TOR.TORdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TOR.TORdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TOR.TORdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TOR.TORdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TOR.TORdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TOR.TORdbDataSetTableAdapters.TableAdapterManager.UpdateAll(TOR.TORdbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TOR.TORdbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
